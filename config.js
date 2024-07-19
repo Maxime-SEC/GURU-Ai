@@ -23,7 +23,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011', '32460248586']
+global.mods = ['237621025521']
 global.prems = ['917605902011', '32460248586', '919398758484']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -72,7 +72,7 @@ global.APIKeys = {
 global.botname = process.env.BOTNAME
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
+global.author = 'Maxime'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
 global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
@@ -90,7 +90,7 @@ global.error = '❌'
 global.xmoji = '🔥'
 
 global.multiplier = 69
-global.maxwarn = '3'
+global.maxwarn = '2'
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
